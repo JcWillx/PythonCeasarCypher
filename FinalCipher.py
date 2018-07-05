@@ -120,6 +120,8 @@ def checkAgain():
 
 checkAgain()
 
+print("This is a test")
+
 '''
 	myMessage = raw_input('Enter your message: ').capitalize()
 	while mesVal(myMessage) == False:
